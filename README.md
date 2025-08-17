@@ -32,7 +32,7 @@ This repository documents the tasks and projects I completed over the course of 
 # Tools & Skills
 - **Languages:** SQL, Power Query (M Language)
 - **Tools:** MySQL, Excel, Power BI
-- **Technical Skills:** Data Cleaning, EDA, DAX measures, ETL, Data Modelling
+- **Technical Skills:** Data Cleaning, EDA, ETL, Data Modelling, Pivot Tables, Slicers
 # Key Outcomes
 - Analyzing industry-level datasets and building relational data models.
 - Bridging SQL analytics with Power BI dashboards.
